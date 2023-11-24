@@ -1,0 +1,11 @@
+Thu thập yêu cầu: Giai đoạn đầu tiên bao gồm việc thu thập và ghi lại tất cả các yêu cầu đối với hệ thống phần mềm. Điều này bao gồm việc hiểu các chức năng, tính năng và mục tiêu của hệ thống.
+
+Thiết kế hệ thống: Trong giai đoạn này, các yêu cầu thu thập được ở giai đoạn trước sẽ được chuyển thành thiết kế hệ thống chi tiết. Điều này bao gồm việc tạo kiến ​​trúc, thiết kế cơ sở dữ liệu và xác định cấu trúc hệ thống tổng thể.
+
+Triển khai: Sau khi hoàn thành thiết kế hệ thống, nhóm phát triển bắt đầu viết mã và triển khai phần mềm dựa trên các thông số kỹ thuật của thiết kế. Giai đoạn này liên quan đến việc viết và kiểm tra mã để đảm bảo nó đáp ứng các yêu cầu đã chỉ định.
+
+Kiểm tra: Sau giai đoạn triển khai, hệ thống trải qua quá trình kiểm tra nghiêm ngặt để xác định mọi khiếm khuyết, lỗi hoặc sự không nhất quán. Điều này bao gồm thử nghiệm đơn vị, thử nghiệm tích hợp, thử nghiệm hệ thống và thử nghiệm chấp nhận của người dùng.
+
+Triển khai: Khi phần mềm vượt qua tất cả các giai đoạn thử nghiệm, nó đã sẵn sàng để triển khai. Hệ thống được cài đặt và cung cấp cho người dùng cuối.
+
+Bảo trì: Sau khi triển khai, hệ thống cần được giám sát và bảo trì liên tục để đảm bảo hệ thống hoạt động trơn tru. Điều này bao gồm sửa bất kỳ lỗi nào được tìm thấy trong môi trường sản xuất và triển khai các bản cập nhật hoặc cải tiến nếu cần.
